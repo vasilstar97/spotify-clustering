@@ -1,0 +1,35 @@
+spotify\_clustering.my\_module
+==============================
+
+.. automodule:: spotify_clustering.my_module
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      my_function
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MyClass
+   
+   
+
+   
+   
+   
+
+
+
