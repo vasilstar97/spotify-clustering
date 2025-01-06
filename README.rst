@@ -25,11 +25,11 @@ The library can be installed with ``pip``:
 How to use
 ----------
 
-Use the library by importing classes from ``my_package``:
+Use the library by importing classes from ``spotify_clustering``:
 
 ::
 
-   from my_package.my_module_1 import MyClass
+   from spotify_clustering.my_module_1 import MyClass
 
 For more detailed use case see our `examples <#examples>`__.
 
@@ -60,7 +60,7 @@ The latest version of the library is available in the ``main`` branch.
 
 The repository includes the following directories and modules:
 
--  `my_package <./my_package>`__
+-  `spotify_clustering <./spotify_clustering>`__
    directory with the library code:
 
    -  ...
